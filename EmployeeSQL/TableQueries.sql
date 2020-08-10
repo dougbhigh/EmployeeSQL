@@ -1,5 +1,5 @@
 /**************************************************************
-*  RUT-SOM-DATA-PT-06-2020-U-C                    Douglas High*
+*  RUT-SOM-DATA-PT-06-2020-U-C                   Douglas High *
 *   >SQL-Challenge                            August 10, 2020 *
 *                    TABLE QUERIES                            *
 ***************************************************************
@@ -47,7 +47,7 @@ ORDER BY emp_no;
 --05  first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B".
 SELECT first_name, last_name, sex  
 FROM employees
-Where first_na+me = 'Hercules'
+Where first_name = 'Hercules'
 AND last_name LIKE 'B%'
 ORDER BY last_name;
 
