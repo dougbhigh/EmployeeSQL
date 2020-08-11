@@ -1,4 +1,4 @@
-# note: these are assignment specs. refer to README.docx for details on project.
+### note: These are assignment specs. Refer to README.docx for details on project.
 
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
