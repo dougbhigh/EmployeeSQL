@@ -4,7 +4,8 @@
 *                    TABLE QUERIES                            *
 ***************************************************************
 */
-/*  NOTE: Corresponding csv files in '/Data.' need to be imported if tables are empty.
+/*  NOTE: Corresponding csv files in '/Data.' need to be imported if tables are empty
+          (they contain headers and are comma delimited).
   The first three must be titles, employees, and departments, in that order  */
   
 -- uncomment below lines to verify table contain data  
@@ -40,7 +41,7 @@ ORDER BY dept_no;
 --04 department of each employee: employee number, last name, first name, and department name.
 SELECT employees.emp_no, employees.last_name, employees.first_name, departments.dept_name  
 FROM employees
-INNER JOIN dept_emp     ON employees.emp_no = dept_emp.emp_no
+INNER JOIN dept_emp    ON employees.emp_no = dept_emp.emp_no
 INNER JOIN departments ON dept_emp.dept_no = departments.dept_no
 ORDER BY emp_no;
 
@@ -72,9 +73,3 @@ SELECT COUNT(last_name),  last_name
 FROM employees
 GROUP BY last_name
 ORDER BY COUNT(last_name) DESC;
-
-
-
-
-
-
