@@ -2,7 +2,7 @@
 
 Convert csv files into postgres tables, run queries, use matplotlib to create charts.
 
-1) Evaluate six csv files for conversion to relational DB, create ERD,
+1) Evaluate six csv files for conversion to relational DB, create ERD.
 2) In Postgres, create DB.
 3) Write and run SQL to create six tables for data on the csv files.
 4) Import csv files into tables.
