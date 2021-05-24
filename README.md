@@ -1,4 +1,4 @@
-# SQL-Challenge
+# EmployeeSQL
 
 Convert csv files into postgres tables, run queries, use matplotlib to create charts.
 
@@ -10,7 +10,7 @@ Convert csv files into postgres tables, run queries, use matplotlib to create ch
 6) With Python, use SQLAlchemy to create engine and connect to postgres.
 7) Join tables and create dataframe from select columns.
 8) Create histogram and bar chart on salary information, save as png files.
-- Full documentation found in https://github.com/dougbhigh/SQL-Challenge/blob/master/SQL_documentation.docx
+- Full documentation found in https://github.com/dougbhigh/EmployeeSQL/blob/master/SQL_documentation.docx
 
-![alt text](https://github.com/dougbhigh/SQL-Challenge/blob/master/EmployeeSQL/Images/ERD.png)
-![alt text](https://github.com/dougbhigh/SQL-Challenge/blob/master/EmployeeSQL/Images/Salaries_byTitle.png)
+![alt text](https://github.com/dougbhigh/EmployeeSQL/blob/master/EmployeeSQL/Images/ERD.png)
+![alt text](https://github.com/dougbhigh/EmployeeSQL/blob/master/EmployeeSQL/Images/Salaries_byTitle.png)
