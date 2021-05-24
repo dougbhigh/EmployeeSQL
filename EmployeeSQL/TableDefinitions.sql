@@ -2,6 +2,7 @@
 *  RUT-SOM-DATA-PT-06-2020-U-C                   Douglas High *
 *   >SQL-Challenge                            August 10, 2020 *
 *                    TABLE DEFINITION SQL                     *
+* 5/2021 project name and databse changed to EmployeeSQL      *
 ***************************************************************
 */
 -- **  drop all tables  **--

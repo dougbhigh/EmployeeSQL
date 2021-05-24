@@ -2,6 +2,7 @@
 *  RUT-SOM-DATA-PT-06-2020-U-C                   Douglas High *
 *   >SQL-Challenge                            August 10, 2020 *
 *                    TABLE QUERIES                            *
+* 5/2021 project name and database changed to EmployeeSQL     *
 ***************************************************************
 */
 /*  NOTE: Corresponding csv files in '/Data.' need to be imported if tables are empty
